@@ -19,6 +19,7 @@
 		B7B3CC8B2C4B6ABC0068953D /* InspirationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B3CC8A2C4B6ABC0068953D /* InspirationView.swift */; };
 		B7B3CC8D2C4B6ACC0068953D /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B3CC8C2C4B6ACC0068953D /* ProfileView.swift */; };
 		B7B3CC8F2C4C3CE70068953D /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7B3CC8E2C4C3CE70068953D /* MainTabView.swift */; };
+		B7BFCA5C2C61FA8F004676EE /* EntriesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7BFCA5B2C61FA8F004676EE /* EntriesView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		B7B3CC8A2C4B6ABC0068953D /* InspirationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspirationView.swift; sourceTree = "<group>"; };
 		B7B3CC8C2C4B6ACC0068953D /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		B7B3CC8E2C4C3CE70068953D /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
+		B7BFCA5B2C61FA8F004676EE /* EntriesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntriesView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				B7B3CC8C2C4B6ACC0068953D /* ProfileView.swift */,
 				B7A70C202C48DE0A005D6422 /* SplashScreenView.swift */,
 				B7B3CC8E2C4C3CE70068953D /* MainTabView.swift */,
+				B7BFCA5B2C61FA8F004676EE /* EntriesView.swift */,
 				B7A70BF92C48D905005D6422 /* Assets.xcassets */,
 				B7A70BFB2C48D905005D6422 /* Our_Journal.entitlements */,
 				B7A70BFC2C48D905005D6422 /* Preview Content */,
@@ -275,6 +278,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7A70BF82C48D902005D6422 /* ContentView.swift in Sources */,
+				B7BFCA5C2C61FA8F004676EE /* EntriesView.swift in Sources */,
 				B7B3CC8B2C4B6ABC0068953D /* InspirationView.swift in Sources */,
 				B7A70BF62C48D902005D6422 /* Our_JournalApp.swift in Sources */,
 				B7B3CC892C4B6AAF0068953D /* JournalView.swift in Sources */,
